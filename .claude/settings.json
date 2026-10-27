@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 escaner.py:*)",
+      "Bash(python3 armar_ratios.py:*)",
+      "Bash(pip install --break-system-packages:*)",
+      "Bash(git clone https://github.com/rda7777/escaner-cedears:*)",
+      "Bash(git push origin HEAD:main)"
+    ]
+  }
+}
